@@ -1,0 +1,2 @@
+# adblockerhost
+AdBlocker Hosts
